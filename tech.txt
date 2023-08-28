@@ -1,0 +1,9 @@
+1. next.js 13.4
+2. gpt-4
+3. tailwind css
+4. typescript  
+5. Beautiful DnD
+6. MAP object of Javascript  
+7. Appwrite Cloud  
+8. Zustand  
+9. headless UI  
